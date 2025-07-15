@@ -504,7 +504,7 @@ const Home: React.FC = () => {
                 </li>
                 <li>
                   <a 
-                    href="https://dmt.gov.lk/index.php?lang=en" 
+                    href="https://dmt.gov.lk/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="hover:text-emerald-400 transition-colors"
@@ -514,7 +514,7 @@ const Home: React.FC = () => {
                 </li>
                 <li>
                   <a 
-                    href="https://www.police.lk/?page_id=1867" 
+                    href="https://www.police.lk/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="hover:text-emerald-400 transition-colors"
@@ -537,7 +537,7 @@ const Home: React.FC = () => {
           </div>
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Government of Sri Lanka. All rights reserved. | Privacy Policy | Terms of Service</p>
+            <p>&copy; 2024 TrafficLK - Digital Traffic Fine Management System. All rights reserved.</p>
           </div>
         </div>
       </footer>
